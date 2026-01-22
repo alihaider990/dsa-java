@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/alihaider990/dsa-java/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/alihaider990/dsa-java/tree/master/0009-palindrome-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/alihaider990/dsa-java/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [3227-vowels-game-in-a-string](https://github.com/alihaider990/dsa-java/tree/master/3227-vowels-game-in-a-string) |
 ## Recursion
 |  |
 | ------- |
@@ -34,4 +35,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/alihaider990/dsa-java/tree/master/0004-median-of-two-sorted-arrays) |
+## String
+|  |
+| ------- |
+| [3227-vowels-game-in-a-string](https://github.com/alihaider990/dsa-java/tree/master/3227-vowels-game-in-a-string) |
+## Brainteaser
+|  |
+| ------- |
+| [3227-vowels-game-in-a-string](https://github.com/alihaider990/dsa-java/tree/master/3227-vowels-game-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [3227-vowels-game-in-a-string](https://github.com/alihaider990/dsa-java/tree/master/3227-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
