@@ -11,12 +11,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/alihaider990/dsa-java/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/alihaider990/dsa-java/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/alihaider990/dsa-java/tree/master/0977-squares-of-a-sorted-array) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/alihaider990/dsa-java/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/alihaider990/dsa-java/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/alihaider990/dsa-java/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/alihaider990/dsa-java/tree/master/0142-linked-list-cycle-ii) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/alihaider990/dsa-java/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Linked List
 |  |
 | ------- |
@@ -80,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/alihaider990/dsa-java/tree/master/0011-container-with-most-water) |
+## Sliding Window
+|  |
+| ------- |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/alihaider990/dsa-java/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
