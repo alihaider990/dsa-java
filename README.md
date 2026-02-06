@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/alihaider990/dsa-java/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/alihaider990/dsa-java/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/alihaider990/dsa-java/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0283-move-zeroes](https://github.com/alihaider990/dsa-java/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/alihaider990/dsa-java/tree/master/0643-maximum-average-subarray-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/alihaider990/dsa-java/tree/master/0977-squares-of-a-sorted-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/alihaider990/dsa-java/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/alihaider990/dsa-java/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/alihaider990/dsa-java/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/alihaider990/dsa-java/tree/master/0142-linked-list-cycle-ii) |
+| [0283-move-zeroes](https://github.com/alihaider990/dsa-java/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/alihaider990/dsa-java/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/alihaider990/dsa-java/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/alihaider990/dsa-java/tree/master/0977-squares-of-a-sorted-array) |
